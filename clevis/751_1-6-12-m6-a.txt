@@ -1,0 +1,16 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"751.1-6-12-M6-A";"";
+"TraceParts.PartVersion";"1.0.3";"";
+"SUPPLIER";"JW Winco";"";
+"Weight";"0.033 lbs";"";
+"Material";"ST - Acier";"";
+"TraceParts.PartNumber";"90-02102020-034224";"";
+"TraceParts.PartLanguage";"fr";"";
+"DESIGN";"Chapes de tringlerie en acier, avec arbre rotatif";"";
+"Type";"A - Sans goupille";"";
+"RoHs";"Non";"";
+"TraceParts.PartTitle";"GN 751.1 Chapes de tringlerie en acier, avec arbre rotatif";"";
+"ECLASS";"23020707";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"Zolltarif";"7318290000";"";
+"TraceParts.InstanceId";"90-02102020-0342242V6CDDHTHO0FF7PO290VUZ8DK";"";

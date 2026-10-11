@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-12062024-014629";"";
+"REFERENCE";"DSNU-25-25-PPV-A";"";
+"rs_stock_number";"1214679";"";
+"TraceParts.PartTitle";"Round Cylinder, 25mm Bore, 25mm Stroke";"";
+"url";"https://uk.rs-online.com/web/p/pneumatic-piston-rod-cylinders/1214679//?cm_mmc=aff-_-uk-_-traceparts-_-1214679";"";
+"SUPPLIER_NAME";"RS Components";"";
+"SUPPLIER";"Festo";"";
+"DESIGN";"Round Cylinder, 25mm Bore, 25mm Stroke";"";
+"TraceParts.InstanceId";"90-12062024-0146292N3XX9WWY2MK673V115V3T3RA";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.0";"";
